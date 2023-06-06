@@ -1,0 +1,47 @@
+/* table.table-bordered{
+    border:1px solid rgb(217, 217, 222);
+    margin-top:20px;
+  }
+table.table-bordered > thead > tr > th{
+    border:1px solid rgb(217, 217, 222);
+}
+table.table-bordered > tbody > tr > td{
+    border:1px solid rgb(217, 217, 222);
+} */
+
+
+.blank_row
+{
+    height: 30px !important; /* overwrites any other rules */
+    background-color: #ffffff;
+    /* border:1px solid red; */
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.firstItem{
+    font-weight: 700;
+    font-size:15px;
+    color:black;
+}
+
+.secondItem{
+    font-weight: 700;
+    font-size:14px;
+    color:black;
+}
+
+.headerText{
+    font-weight:700;
+    font-size:18px;
+    line-height: 20px;
+    color:black;
+}
+
+
+.tag{
+    color:white;
+    text-decoration: none;
+}
